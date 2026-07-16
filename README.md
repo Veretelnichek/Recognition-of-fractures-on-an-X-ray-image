@@ -196,5 +196,4 @@ print("Приложение запущено успешно")
 - NumPy документация: https://numpy.org/doc/
 - OpenCV документация: https://docs.opencv.org/
 - Numba документация: https://numba.readthedocs.io/
-- Kaggle Dogs vs Cats датасет: https://www.kaggle.com/c/dogs-vs-cats/data
 
